@@ -20,7 +20,7 @@ class MainKtTest {
             transfer = testTransfer
         )
 
-        assertEquals(0, result)
+        assertEquals(1, result)
 
     }
 
